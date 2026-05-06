@@ -1,0 +1,16 @@
+target/
+.idea/
+.vscode/
+*.class
+*.iml
+*.log
+
+# Root-level loose Java files (moved to src/)
+CreateUrlRequest.java
+Url.java
+UrlController.java
+UrlRepository.java
+UrlResponse.java
+UrlService.java
+UrlShortenerApplication.java
+application.properties
