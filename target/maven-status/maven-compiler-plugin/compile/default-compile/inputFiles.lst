@@ -1,0 +1,7 @@
+/Users/abdullahsalik/IdeaProjects/urlshort/src/main/java/com/urlshortener/service/UrlService.java
+/Users/abdullahsalik/IdeaProjects/urlshort/src/main/java/com/urlshortener/dto/CreateUrlRequest.java
+/Users/abdullahsalik/IdeaProjects/urlshort/src/main/java/com/urlshortener/dto/UrlResponse.java
+/Users/abdullahsalik/IdeaProjects/urlshort/src/main/java/com/urlshortener/controller/UrlController.java
+/Users/abdullahsalik/IdeaProjects/urlshort/src/main/java/com/urlshortener/repository/UrlRepository.java
+/Users/abdullahsalik/IdeaProjects/urlshort/src/main/java/com/urlshortener/model/Url.java
+/Users/abdullahsalik/IdeaProjects/urlshort/src/main/java/com/urlshortener/UrlShortenerApplication.java
